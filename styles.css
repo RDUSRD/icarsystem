@@ -1,0 +1,30 @@
+.imagen-carro {
+    max-width: 100%;
+    height: auto
+}
+
+.lista-datos li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.imagen-carro {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px; 
+}
+
+.lista-datos li {
+    list-style: none;
+    margin-bottom: 20px; 
+}
+#formulario {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+}
+.navbar-custom {
+    background-color: #071f29; 
+    color: white;
+}
